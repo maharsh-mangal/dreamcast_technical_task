@@ -1,7 +1,7 @@
 
 ## About The Project
 
-This project has been created to demonstrate the use of Laravel 8 and Vue.js 2.6.12. The project is a simple application that allows users to create and read users. The project uses Laravel as the backend and Vue.js as the frontend. To run the project, you need to have follow the steps given below:
+This project has been created to demonstrate the use of Laravel 8 and Vue.js. The project is a simple application that allows users to create and read users. The project uses Laravel as the backend and Vue.js as the frontend. To run the project, you need to have follow the steps given below:
 - Clone the repository.
 - Copy the `.env.example` to `.env`.
 - Enter database credentials as setup on your machine
